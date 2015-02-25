@@ -1,0 +1,2 @@
+C:\Users\Joy\AndroidStudioProjects\CustomListItem_solution\app\build\intermediates\classes\debug
+C:\Users\Joy\AndroidStudioProjects\CustomListItem_solution\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b6336703ad724cbc0e3c1efda8241a1b8807f103.jar
